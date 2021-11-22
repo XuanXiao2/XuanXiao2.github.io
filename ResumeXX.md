@@ -1,7 +1,7 @@
 # Xuan Xiao
-29 Sherwood St., Storrs, CT 06268
-(959) 929-9625
-xuan.xiao@uconn.edu
+29 Sherwood St., Storrs, CT 06268\
+(959) 929-9625\
+xuan.xiao@uconn.edu\
 https://portfolium.com/XuanXiao/portfolio
 ## Summary
 I am a junior at the University of Connecticut, Storrs. My major is Geographic Information Science and I have learn some professional GIS techniques involve cartographic, data analysis and programming in GIS applications.
